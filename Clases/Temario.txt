@@ -1,0 +1,146 @@
+Temario:
+
+Unidad 1 (Fundamentos Basicos) {
+    
+    Sintaxis
+    
+    Tipos de Datos (Datos primitivos) {
+        int
+        float
+        char
+        str
+        bool
+    }
+    
+    I/0 (print y input) 
+    
+    Conversiones {
+        int()
+        float()
+        char()
+        str()
+        bool()
+    }
+    
+    Operadores Aritmeticos {
+        +
+        -
+        *
+        /
+        //
+        **
+        %
+    }
+    
+    Operadores de Asignacion {
+        =
+        +=
+        -=
+        *=
+        /=
+        //=
+        **=
+        %=
+    }
+    
+    Operadores Comparadores {
+        ==
+        !=
+        >
+        <
+        >=
+        <=
+    }
+
+    Operadores Logicos {
+        and
+        or
+        not
+    }
+}
+
+Unidad 2 (Control de Flujo y Estructuras de Datos Nativas 1) {
+
+    Condicionales {
+        if
+        elif
+        else
+        
+        Asignaciones Condicionales: c = (1 if a==100 else 0) 
+    }
+
+    Bucles {
+        while
+        for i in range()
+        enumerate()
+        zip()
+    }
+
+    break
+    continue
+}
+
+Unidad 3 (Estructuras de Datos Basicas) {
+    list()
+    tuple()
+    set()
+    dict()
+}
+
+
+Unidad 4 (Exceptions and Functions) {
+    Funciones
+    Bloque try - except
+    Recursividad
+    arg , kwargs
+    lambda
+}
+
+Unidad 5 (Modulos basicos) {
+    importe de modulos
+    
+    import math as m
+    import random
+    import datetime
+    import time
+    import json
+    import sys
+
+    Modulos propios
+}
+
+Unidad 6 (POO: Programacion Orientada a Objetos) {
+    Clases
+    Herencias
+    Metodos
+}
+
+Unidad 7 (Caracteristicas Avanzadas) {
+    Listas Comprensivas
+    Diccionarios Comprensivos
+    Programacion Funcional
+    map(), reduce(), filter()
+}
+
+Unidad 8 (Testing) {
+    unittest
+    pytest
+}
+
+Unidad 9 (Estrucutas de Datos Avanzadas) {
+    Algoritmos de Estructuras
+    Listas Enlazadas
+    Pilas
+    Colas
+    Arboles
+    Grafos
+}
+
+Unidad 10 (Web Developing) {
+    HTML
+    CSS
+    JS
+
+    Flask
+    Django
+}
