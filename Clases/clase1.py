@@ -50,5 +50,6 @@ a = 'Hola Mundo'
 
 print(a)
 
-
+dato = int( input("Dame un int: "))
+print( dato+3 )
 

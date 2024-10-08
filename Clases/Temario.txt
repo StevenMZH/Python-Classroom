@@ -7,7 +7,7 @@ Unidad 1 (Fundamentos Basicos) {
     Tipos de Datos (Datos primitivos) {
         int
         float
-        char
+        str
         str
         bool
     }
@@ -17,7 +17,6 @@ Unidad 1 (Fundamentos Basicos) {
     Conversiones {
         int()
         float()
-        char()
         str()
         bool()
     }
